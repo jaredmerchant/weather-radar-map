@@ -1,3 +1,5 @@
 venv
 *.html
 .idea
+.git
+.DS_Store
